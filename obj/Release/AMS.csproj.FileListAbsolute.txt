@@ -1,0 +1,12 @@
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.csprojResolveAssemblyReference.cache
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.FormMain.resources
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.FormAbout.resources
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.FormNewProject.resources
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.FormRenameWindow.resources
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Release\AMS.csproj.GenerateResource.Cache
+e:\GitHub\AMS\obj\Release\AMS.csprojResolveAssemblyReference.cache
+e:\GitHub\AMS\obj\Release\AMS.FormMain.resources
+e:\GitHub\AMS\obj\Release\AMS.FormAbout.resources
+e:\GitHub\AMS\obj\Release\AMS.FormNewProject.resources
+e:\GitHub\AMS\obj\Release\AMS.FormRenameWindow.resources
+e:\GitHub\AMS\obj\Release\AMS.csproj.GenerateResource.Cache

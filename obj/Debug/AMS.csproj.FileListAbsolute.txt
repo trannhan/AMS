@@ -1,0 +1,4 @@
+D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Debug\AMS.exe
+D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Debug\AMS.pdb
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Debug\AMS.exe
+D:\TRAN THANH NHAN\Project\Computer Science\Archsoft\Project\AMS\obj\Debug\AMS.pdb

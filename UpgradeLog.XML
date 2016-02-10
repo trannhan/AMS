@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AMS">
+</Property><Property Name="Solution File" Value="D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\AMS.sln">
+</Property><Property Name="User Options File" Value="D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\AMS.suo">
+</Property><Property Name="Date" Value="Saturday, March 28, 2009">
+</Property><Property Name="Time" Value="18:48 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AMS.sln" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\AMS.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AMS.suo" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\AMS.suo">
+</Event><Event ErrorLevel="0" Project="AMS" Source="AMS.csproj" Description="Project file successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\AMS.csproj">
+</Event><Event ErrorLevel="0" Project="AMS" Source="AMS.csproj.user" Description="Project user file successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\AMS.csproj.user">
+</Event><Event ErrorLevel="0" Project="AMS" Source="AssemblyInfo.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="DrawingListProject.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\DrawingListProject.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="Form1.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormAbout.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormAbout.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormNewProject.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormNewProject.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormRenameWindow.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormRenameWindow.cs">
+</Event><Event ErrorLevel="0" Project="AMS" Source="App.ico" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="AMS" Source="Form1.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormAbout.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormAbout.resx">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormNewProject.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormNewProject.resx">
+</Event><Event ErrorLevel="0" Project="AMS" Source="FormRenameWindow.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\FormRenameWindow.resx">
+</Event><Event ErrorLevel="0" Project="AMS" Source="AMS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AMS" Source="AMS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ListForm.csproj" Description="Project file successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\ListForm.csproj">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ListForm.csproj.user" Description="Project user file successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\ListForm.csproj.user">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\AMSFileList.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\AMSFileList.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\AssemblyInfo.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ClassCommonAPIs.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\ClassCommonAPIs.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ClassUndo.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\ClassUndo.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\FormGetNumFiles.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\FormGetNumFiles.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\FormRenameDrawing.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\FormRenameDrawing.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\UserControl1.cs" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\UserControl1.cs">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ListForm.sln" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\ListForm.sln">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\FormGetNumFiles.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\FormGetNumFiles.resx">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\FormRenameDrawing.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\FormRenameDrawing.resx">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\UserControl1.resx" Description="File successfully backed up as D:\NHAN\Project\Computer Science\Archsoft\Project\AMS\Backup\ListForm\UserControl1.resx">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ListForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ListForm" Source="ListForm\ListForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AMS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AMS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AMS" Source="AMS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ListForm" Source="ListForm\ListForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

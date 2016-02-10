@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListForm", "ListForm.csproj", "{E0914244-3F69-4DB6-977A-D4C2587D6354}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Debug.ActiveCfg = Debug|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Debug.Build.0 = Debug|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Release.ActiveCfg = Release|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

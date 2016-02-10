@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMS", "AMS.csproj", "{7B44F085-5298-49B4-8BAA-931DF5AB041B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListForm", "ListForm\ListForm.csproj", "{E0914244-3F69-4DB6-977A-D4C2587D6354}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7B44F085-5298-49B4-8BAA-931DF5AB041B}.Debug.ActiveCfg = Debug|.NET
+		{7B44F085-5298-49B4-8BAA-931DF5AB041B}.Debug.Build.0 = Debug|.NET
+		{7B44F085-5298-49B4-8BAA-931DF5AB041B}.Release.ActiveCfg = Release|.NET
+		{7B44F085-5298-49B4-8BAA-931DF5AB041B}.Release.Build.0 = Release|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Debug.ActiveCfg = Debug|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Debug.Build.0 = Debug|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Release.ActiveCfg = Release|.NET
+		{E0914244-3F69-4DB6-977A-D4C2587D6354}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
